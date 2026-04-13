@@ -56,5 +56,6 @@ This project demonstrates the ability to:
 	•	Transform raw data into actionable insights
 ## Files Included
 - <a href="https://github.com/mugabepatricia/Netflix-Data-Analysis-Interactive-Dahboard-Tableau./blob/main/Netflix%20Tableau%20Visualization.twb">Netflix Dashboard</a>
+- <a href="https://github.com/mugabepatricia/Netflix-Data-Analysis-Interactive-Dahboard-Tableau./blob/main/netflix_titles.csv">Netflix csv File</a>
 ## Let’s Connect
 If you found this project interesting or have feedback, feel free to connect!
