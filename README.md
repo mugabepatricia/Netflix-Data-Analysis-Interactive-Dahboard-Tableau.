@@ -37,14 +37,14 @@ The following visualizations were created in Tableau:
 ## Interactive Dashboard Features
 The Tableau dashboard includes dynamic filters and KPIs for deeper exploration:
 - Filters:
-	•	Title
-	•	Type (Movie / TV Show)
+  	- Title
+	- Type (Movie / TV Show)
 - KPIs:
-	•	Date Added
-	•	Release Year
-	•	Genre
-	•	Duration
-	•	Rating
+  - Date Added
+  - Release Year
+	- Genre
+	- Duration
+	- Rating
 These features allow users to interact with the data and drill down into specific insights.
 ## Tools Used
 	•	Tableau (Data Visualization & Dashboard Development)
@@ -57,5 +57,6 @@ This project demonstrates the ability to:
 ## Files Included
 - <a href="https://github.com/mugabepatricia/Netflix-Data-Analysis-Interactive-Dahboard-Tableau./blob/main/Netflix%20Tableau%20Visualization.twb">Netflix Dashboard</a>
 - <a href="https://github.com/mugabepatricia/Netflix-Data-Analysis-Interactive-Dahboard-Tableau./blob/main/netflix_titles.csv">Netflix csv File</a>
+- <a href="https://github.com/mugabepatricia/Netflix-Data-Analysis-Interactive-Dahboard-Tableau./blob/main/Screenshot%202026-04-13%20at%2011.40.01.png">Dashborad screenshot</a>
 ## Let’s Connect
 If you found this project interesting or have feedback, feel free to connect!
